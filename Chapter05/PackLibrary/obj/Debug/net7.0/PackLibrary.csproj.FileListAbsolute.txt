@@ -1,0 +1,12 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\bin\Debug\net7.0\PackLibrary.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\bin\Debug\net7.0\PackLibrary.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\bin\Debug\net7.0\PackLibrary.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\refint\PackLibrary.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\PackLibrary.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter05\PackLibrary\obj\Debug\net7.0\ref\PackLibrary.dll

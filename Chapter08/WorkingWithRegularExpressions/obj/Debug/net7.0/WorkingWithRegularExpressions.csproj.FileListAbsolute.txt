@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\refint\WorkingWithRegularExpressions.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\ref\WorkingWithRegularExpressions.dll

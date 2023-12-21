@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\bin\Debug\net7.0\WorkingWithList.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\bin\Debug\net7.0\WorkingWithList.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\bin\Debug\net7.0\WorkingWithList.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\bin\Debug\net7.0\WorkingWithList.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\bin\Debug\net7.0\WorkingWithList.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\refint\WorkingWithList.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\WorkingWithList.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithList\obj\Debug\net7.0\ref\WorkingWithList.dll

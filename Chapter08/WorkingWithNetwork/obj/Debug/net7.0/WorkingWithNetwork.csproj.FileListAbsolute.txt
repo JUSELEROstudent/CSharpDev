@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\bin\Debug\net7.0\WorkingWithNetwork.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\bin\Debug\net7.0\WorkingWithNetwork.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\bin\Debug\net7.0\WorkingWithNetwork.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\bin\Debug\net7.0\WorkingWithNetwork.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\bin\Debug\net7.0\WorkingWithNetwork.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\refint\WorkingWithNetwork.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\WorkingWithNetwork.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter08\WorkingWithNetwork\obj\Debug\net7.0\ref\WorkingWithNetwork.dll

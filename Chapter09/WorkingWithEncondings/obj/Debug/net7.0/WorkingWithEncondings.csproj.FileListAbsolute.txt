@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\bin\Debug\net7.0\WorkingWithEncondings.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\bin\Debug\net7.0\WorkingWithEncondings.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\bin\Debug\net7.0\WorkingWithEncondings.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\bin\Debug\net7.0\WorkingWithEncondings.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\bin\Debug\net7.0\WorkingWithEncondings.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\refint\WorkingWithEncondings.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\WorkingWithEncondings.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter09\WorkingWithEncondings\obj\Debug\net7.0\ref\WorkingWithEncondings.dll
