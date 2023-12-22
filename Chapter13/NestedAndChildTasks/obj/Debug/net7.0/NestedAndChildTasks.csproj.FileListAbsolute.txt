@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\bin\Debug\net7.0\NestedAndChildTasks.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\bin\Debug\net7.0\NestedAndChildTasks.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\bin\Debug\net7.0\NestedAndChildTasks.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\bin\Debug\net7.0\NestedAndChildTasks.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\bin\Debug\net7.0\NestedAndChildTasks.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\refint\NestedAndChildTasks.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\NestedAndChildTasks\obj\Debug\net7.0\ref\NestedAndChildTasks.dll

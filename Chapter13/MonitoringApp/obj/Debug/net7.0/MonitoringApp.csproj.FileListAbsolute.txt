@@ -16,3 +16,21 @@ D:\soft development\C# book study\Chapter11\CSharpDev\Chapter13\MonitoringApp\ob
 D:\soft development\C# book study\Chapter11\CSharpDev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.pdb
 D:\soft development\C# book study\Chapter11\CSharpDev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.genruntimeconfig.cache
 D:\soft development\C# book study\Chapter11\CSharpDev\Chapter13\MonitoringApp\obj\Debug\net7.0\ref\MonitoringApp.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringApp.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringApp.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringApp.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringApp.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringApp.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringLib.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\bin\Debug\net7.0\MonitoringLib.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.csproj.CopyComplete
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\refint\MonitoringApp.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\MonitoringApp.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\MonitoringApp\obj\Debug\net7.0\ref\MonitoringApp.dll

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\soft development\\C# book study\\Chapter11\\CSharpDev\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
+      "projectUniqueName": "C:\\Users\\cocuy\\OneDrive\\Escritorio\\c# dev\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
       "projectName": "MonitoringApp",
-      "projectPath": "D:\\soft development\\C# book study\\Chapter11\\CSharpDev\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
+      "projectPath": "C:\\Users\\cocuy\\OneDrive\\Escritorio\\c# dev\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
       "packagesPath": "C:\\Users\\cocuy\\.nuget\\packages\\",
-      "outputPath": "D:\\soft development\\C# book study\\Chapter11\\CSharpDev\\Chapter13\\MonitoringApp\\obj\\",
+      "outputPath": "C:\\Users\\cocuy\\OneDrive\\Escritorio\\c# dev\\Chapter13\\MonitoringApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,15 +52,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\soft development\\C# book study\\Chapter11\\CSharpDev\\Chapter13\\MonitoringLib\\MonitoringLib.csproj": {
-              "projectPath": "D:\\soft development\\C# book study\\Chapter11\\CSharpDev\\Chapter13\\MonitoringLib\\MonitoringLib.csproj"
+            "C:\\Users\\cocuy\\OneDrive\\Escritorio\\c# dev\\Chapter13\\MonitoringLib\\MonitoringLib.csproj": {
+              "projectPath": "C:\\Users\\cocuy\\OneDrive\\Escritorio\\c# dev\\Chapter13\\MonitoringLib\\MonitoringLib.csproj"
             }
           }
         }
@@ -90,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

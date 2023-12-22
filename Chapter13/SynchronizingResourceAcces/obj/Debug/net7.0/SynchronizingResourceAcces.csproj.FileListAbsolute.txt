@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\bin\Debug\net7.0\SynchronizingResourceAcces.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\bin\Debug\net7.0\SynchronizingResourceAcces.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\bin\Debug\net7.0\SynchronizingResourceAcces.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\bin\Debug\net7.0\SynchronizingResourceAcces.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\bin\Debug\net7.0\SynchronizingResourceAcces.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\refint\SynchronizingResourceAcces.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\SynchronizingResourceAcces.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\SynchronizingResourceAcces\obj\Debug\net7.0\ref\SynchronizingResourceAcces.dll

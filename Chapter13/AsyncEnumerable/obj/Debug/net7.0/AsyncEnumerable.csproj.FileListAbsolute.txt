@@ -1,0 +1,15 @@
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.csproj.AssemblyReference.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.AssemblyInfo.cs
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.exe
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.deps.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.runtimeconfig.json
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\refint\AsyncEnumerable.dll
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.pdb
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.genruntimeconfig.cache
+C:\Users\cocuy\OneDrive\Escritorio\c# dev\Chapter13\AsyncEnumerable\obj\Debug\net7.0\ref\AsyncEnumerable.dll
